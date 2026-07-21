@@ -207,7 +207,6 @@ This portfolio showcases:
 ## 📞 Contact
 
 - **Email:** priyaghewade245@gmail.com
-- **GitHub:** https://github.com/PRIYAGHEWADE
 - **LinkedIn:** https://linkedin.com/in/priya-ghewade-249403206
 - **Location:** Pune, India
 
